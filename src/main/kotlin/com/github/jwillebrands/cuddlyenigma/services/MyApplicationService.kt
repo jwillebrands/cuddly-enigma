@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jwillebrands.cuddlyenigma.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jwillebrands.cuddlyenigma.MyBundle
 
 class MyApplicationService {
 
